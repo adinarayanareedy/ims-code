@@ -10,8 +10,8 @@
 	
 	<scm>
 			<url>https://github.com/adinarayanareedy/ims-code</url>
-			<connection>scm:git:https://github.com/adinarayanareedy/ims-code</connection>
-			<developerConnection>scm:git:https://github.com/adinarayanareedy/ims-code</developerConnection>
+			<connection>scm:git:https://github.com/adinarayanareedy/ims-code.git</connection>
+			<developerConnection>scm:git:https://github.com/adinarayanareedy/ims-code.git</developerConnection>
 	  
   </scm>
 
